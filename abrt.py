@@ -5,3 +5,7 @@ while x!=3:
     x+=1
 nosvemo= "chau"
 print(nosvemo)
+
+for i in "pruebas":
+    x+=1
+print("3+7 =",x)
